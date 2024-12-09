@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "693983938079",
+    "firebase_url": "https://mybooks-2f6c0-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "mybooks-2f6c0",
+    "storage_bucket": "mybooks-2f6c0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693983938079:android:c1517adf088fb5d3c1b72a",
+        "android_client_info": {
+          "package_name": "com.example.my_books"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU7Fiq-CYaYmv6r_1SRNs7oi5gk4mTsPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693983938079:android:14ad473531b05863c1b72a",
+        "android_client_info": {
+          "package_name": "com.example.mybooks_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU7Fiq-CYaYmv6r_1SRNs7oi5gk4mTsPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
